@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: php, wp, plugin and themes development for WP. 
 - 📫 How to reach me: tomasz.kowalski@kowalski-consulting.com
-- 😄 Pronouns: Dont call me ninja, try instead a normal way. 
+- 😄 Pronouns: doing a fun thing everyday.
 - ⚡ Fun fact: it's been written 1.08.2022. 
 -->
