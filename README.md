@@ -1,16 +1,34 @@
-### Hi there 👋
+## **About Me**  
+Hello, I'm a skilled developer specializing in building commercial applications with **PHP, React, and Next.js**. I have significant experience customizing **WordPress and WooCommerce**, tailoring solutions to meet unique business needs.  
 
-<!--
-**tomek-kowalski/tomek-kowalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **My Skills**  
+- **Backend:** PHP (Symfony, Laravel), Node.js, SQL, Firebase  
+- **Frontend:** React, Next.js, CSS, HTML  
+- **Cloud & DevOps:** Google Cloud, AWS, Docker  
+- **CMS & E-commerce:** WordPress, WooCommerce  
 
-Here are some ideas to get you started:
+## **Notable Projects**  
 
-- 🔭 I’m currently working on quite many projects using stack like : PHP, JS, jquery, HTML, CSS, related to plugins and themes development in CMS Wordpress.
-- 🌱 I’m currently learning new things in area of React and Python.
-- 👯 I’m looking to collaborate on interesting projects, escpecially in area  of plugin development and integration on WP. 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: php, wp, plugin and themes development for WP. 
-- 📫 How to reach me: tomasz.kowalski@kowalski-consulting.com
-- 😄 Pronouns: doing a fun thing everyday.
-- ⚡ Fun fact: it's been written 1.08.2022. 
--->
+### **1️⃣ Booking System for WordPress**  
+A WordPress booking plugin with a backend that integrates **React-powered forms**. Appointments are displayed in real-time across multiple monitors.  
+- 📌 [Booking Calendar Plugin](https://github.com/tomek-kowalski/booking-forms)  
+- 📌 [Monitor Display App](https://github.com/tomek-kowalski/telebim-app)  
+- 📌 [React Forms for Online Booking](https://github.com/tomek-kowalski/booking-backend-plugin)  
+
+### **2️⃣ CPT to WooCommerce Product Converter**  
+A plugin that converts **WordPress CPT posts** into fully functional **WooCommerce products**.  
+- 📌 [Post to Product Converter](https://github.com/tomek-kowalski/conver-post-to-product)  
+
+### **3️⃣ Copart Scraper for WooCommerce**  
+A tool for **automating the import of Copart auction listings** into WooCommerce. Users can simply upload a CSV file with selected URLs, and the system will:  
+✅ Download images  
+✅ Populate WooCommerce product data  
+✅ Automate product creation  
+- 📌 [Copart Scraper](https://github.com/tomek-kowalski/copart-scrapper-wp)  
+
+### **4️⃣ Advanced WooCommerce Product Filters**  
+A flexible filtering system that allows users to search products by:  
+🔹 Attributes (color, brand, terms, etc.)  
+🔹 Min/max price  
+🔹 Year of production  
+- 📌 [WooCommerce Product Filters](https://github.com/tomek-kowalski/woocommerce-product-configurator)  
